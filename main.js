@@ -1,4 +1,4 @@
-// Write down your weight here and this small calculator should log how much you should be consuming in terms of calories and protein based on
+// Write down your weight here (KG) and this small calculator should log how much you should be consuming in terms of calories and protein based on
 // Jeff Nippard's latest video
 
 const weight = 86.2;
